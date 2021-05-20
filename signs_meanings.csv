@@ -1,0 +1,44 @@
+﻿sign_number,sign_meaning
+0,Max Speed 20 km/h
+1,Max Speed 30 km/h
+2,Max Speed 50 km/h
+3,Max Speed 60 km/h
+4,Max Speed 70 km/h
+5,Max Speed 80 km/h
+6,End of Max Speed 80 km/h
+7,Max Speed 100 km/h
+8,Max Speed 120 km/h
+9,No Passing (for any vehicle type)
+10,"No Passing (by vehicles over 3,5 t)"
+11,Priority to through-traffic at the next intersection/crossroads only
+12,Priority Road
+13,Yield
+14,Stop
+15,No vehicles of any kind permitted
+16,No Lkw(trucks) Permitted
+17,Do Not Enter
+18,Danger
+19,Curve  (left)
+20,Curve  (right)
+21,Double curve
+22,"Uneven surfaces ahead, bumpy road"
+23,Slippery road
+24,Road narrows on the right
+25,Construction area
+26,Traffic lights 
+27,Pedestrian crosswalk
+28,Children
+29,Bicycles
+30,Slipperiness due to snow or ice
+31,Wild animals
+32,End of previous limitation
+33,"You must turn right ahead, yield appropriately"
+34,"You must turn left ahead, yield appropriately"
+35,"You must go straight ahead, yield appropriately"
+36,You must go straight or turn right
+37,You must go straight or turn left
+38,Keep right of traffic barrier/divider
+39,Keep left of traffic barrier/divider
+40,Roundabout
+41,End of No Passing (for any vehicle type)
+42,"End of No Passing (by vehicles over 3,5 t)"
